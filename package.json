@@ -1,0 +1,15 @@
+{
+  "name": "jquery-snowpack-example",
+  "version": "1.0.0",
+  "description": "Example using jQuery with ES6 modules and Snowpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/johanneshayry:jquery-snowpack-example.git"
+  },
+  "author": "Johannes Häyry",
+  "license": "MIT"
+}
